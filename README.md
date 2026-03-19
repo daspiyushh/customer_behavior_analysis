@@ -21,9 +21,13 @@ Analyze customer purchasing patterns to identify revenue drivers and improve bus
 - Loyal customers drive major revenue
 
 ## 📷 Dashboard Preview
-(ADD SCREENSHOTS HERE)
+The dashboard provides insights into customer behavior, including revenue trends, customer segmentation, and the impact of subscriptions and shipping preferences.
+Interactive filters allow dynamic analysis across gender, category, and shipping type.
+<img width="1919" height="1039" alt="dashboard_overview" src="https://github.com/user-attachments/assets/15329ed6-e9e6-4a79-a873-b61a171251ed" />
+
 
 ## 🚀 Business Impact
 - Target high-value customers
 - Improve subscription strategy
 - Optimize marketing campaigns
+
